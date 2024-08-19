@@ -6,7 +6,12 @@ body {
 }
 
 h1, h2 {
-    margin-bottom: 20px;
+    margin-bottom: 20px; /* Reduced space between titles and other content */
+}
+
+h1 {
+    color: #007BFF; /* Example color for highlighting the h1 text */
+    margin-bottom: 10px; /* Decrease space below h1 */
 }
 
 p {
