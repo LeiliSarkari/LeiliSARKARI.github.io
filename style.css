@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma Page Web</title>
+    <style>
+        h1 {
+            font-size: 30px;
+            text-align: center;
+            color: #de7471;
+        }
+
+        p {
+            font-size: 20px;
+            text-align: left;
+            font-family: Helvetica, sans-serif;
+        }
+
+        body {
+            background-color: #007471;
+            margin: 0;
+            padding: 20px;
+            color: white;
+        }
+
+        a {
+            color: #de7471;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Bienvenue sur ma page web!</h1>
+
+    <p>Ceci est un paragraphe simple pour montrer comment utiliser du texte dans une page HTML. 
+    Vous pouvez personnaliser le contenu selon vos besoins.</p>
+
+    <p>Voici un <a href="https://www.example.com" target="_blank">lien vers un autre site</a> que vous pouvez suivre pour explorer plus d'informations.</p>
+
+    <p>N'hésitez pas à modifier ce texte et à ajouter vos propres sections pour créer une page unique.</p>
+
+</body>
+</html>
